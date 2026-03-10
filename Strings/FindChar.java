@@ -1,4 +1,4 @@
-public class findChar {
+public class FindChar {
    public static int findChar(String s, char ch){
         int n = s.length();
         for(int i =0 ;i < n; i++){

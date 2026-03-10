@@ -1,4 +1,4 @@
-public class length {
+public class Length {
     public static void main(String[] args) {
         String s ="Likhitha";
         System.out.println(s.length());

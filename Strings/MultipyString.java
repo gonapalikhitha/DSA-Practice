@@ -22,7 +22,9 @@ public class MultipyString {
             if(!(sb.length() == 0 && num == 0)){
                 sb.append(num);
             }
+            return sb.length() == 0 ? "0" : sb.toString();
+    
+
     }
-    return sb.length() == 0 ? "0" : sb.toString();
     
 }
